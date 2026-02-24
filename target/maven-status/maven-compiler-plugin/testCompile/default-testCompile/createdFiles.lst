@@ -1,6 +1,0 @@
-payloads/PropertiesRatesPayload.class
-api/services/PropertiesService.class
-api/client/GraphQLClient.class
-stepdefinitions/PropertiesSteps.class
-runners/TestRunner.class
-config/ConfigReader.class
