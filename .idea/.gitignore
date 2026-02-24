@@ -2,3 +2,20 @@
 /shelf/
 /workspace.xml
 /Users/mdsaiffraz/Downloads/src/target
+
+# Maven target directory
+target/
+
+# Cucumber reports
+**/cucumber-reports/
+**/cucumber-html-reports/
+**/reports/
+*.html
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
