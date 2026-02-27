@@ -24,7 +24,6 @@ public class RestClient {
                 .when()
                 .post(endpoint)
                 .then()
-
                 .extract()
                 .response();
     }

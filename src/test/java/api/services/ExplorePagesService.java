@@ -36,6 +36,7 @@ public class ExplorePagesService {
         );
     }
 
+
     public static String readExplorePagesEndpoint(){
         return RestClient.readEndpoint("/api/v1/pms/explore-pages");
     }

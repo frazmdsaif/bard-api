@@ -6,8 +6,8 @@ public class ExplorePagesPayload {
         return "{\n" +
                 "  \"page\": {\n" +
                 "    \n" +
-                "    \"slug\": \"knji\",\n" +
-                "    \"name\": \"stfring\",\n" +
+                "    \"slug\": \"villa-in-goa\",\n" +
+                "    \"name\": \"goa villa\",\n" +
                 "    \"status\": \"ACTIVE\"\n" +
                 "  },\n" +
                 "  \"experiments\": [\n" +
